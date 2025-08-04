@@ -5,7 +5,7 @@
     </div>
     <div
       v-else-if="!loading"
-      class="nr-flex nr-flex-row nr-gap-x-4 nr-items-center"
+      class="nr-flex nr-flex-row nr-gap-x-4 nr-items-center justify-end"
       @click.stop
     >
       <component
